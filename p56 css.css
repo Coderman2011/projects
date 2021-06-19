@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to left, #ffc0c0, #ffa0a0, #ffc0c0);
+  text-align: center;
+}
+
+#1 {
+    height: 100px;
+}
+
+#2 {
+    height: 100px;
+}
+
+#3 {
+    height: 100px;
+}
